@@ -6,5 +6,6 @@ public interface UserInter {
 	
 	void delete();
 	
+	//张三添加的分支
 	void test();
 }
