@@ -5,4 +5,6 @@ public interface UserInter {
 	void update();
 	
 	void delete();
+	
+	void test();
 }
